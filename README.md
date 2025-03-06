@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agaphetos&label=Profile%20views&color=0e75b6&style=flat-square" alt="agaphetos" /> </p>
 
-- 🔭 I’m currently working with [IONA & Co](https://iona.studio/).
+- 🔭 I’m currently working with [Vaisala](https://vaisala.com/).
 
 - 🌱 I’m currently learning **Composable architecture**.
 
